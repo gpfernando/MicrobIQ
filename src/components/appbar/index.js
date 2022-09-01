@@ -1,5 +1,6 @@
 import {
     Box,
+    Button,
     Divider,
     List,
     ListItemButton,
@@ -18,6 +19,7 @@ import {
     AppbarHeader,
     MyList,
   } from "../../styles/appbar";
+
   
 
 export default function Appbar() {
@@ -34,10 +36,11 @@ export default function Appbar() {
               <ListItemText primary="About us" />
               <ListItemText primary="Products" />
               <ListItemText primary="Contact us" />
-              <ListItemText primary="Customer Portal" />
+              <ListItemText primary="Blogs" />
                 </MyList>
+                <div className="App"><Button href="https://master.d12gkndptoofwx.amplifyapp.com/" variant='contained'>Customer Portal</Button></div>
         </AppbarContainer>
-        <h2>This site is under construction.  Please have patience, we will be up soon.</h2>
+
         </>
     );
 }

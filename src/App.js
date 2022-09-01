@@ -38,8 +38,9 @@ function App() {
         appdrawer
         */
       }
-
-   <div className="App"><Button variant='contained'>Test</Button></div>
+        <h1>Please click on Customer Portal Button to see Customer Dashboard</h1>
+        <h2>This site is under construction.  Please have patience, we will be up soon.</h2>
+         {/* <div className="App"><Button variant='contained'>Test</Button></div> */}
     </Container>
       </ThemeProvider>
   );
