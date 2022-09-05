@@ -6,11 +6,11 @@ import { Colors } from "../../styles/theme";
 
 
 const slides = [
-     "/slides/Slide1.PNG",
-     "/slides/Slide2.PNG",
-     "/slides/Slide3.PNG",
-     "/slides/Slide4.PNG",
-     "/slides/Slide5.PNG",
+     "%PUBLIC_URL%/slides/Slide1.PNG",
+     "./slides/Slide2.PNG",
+     "../slides/Slide3.PNG",
+     "/slides/slide4.PNG",
+     "./slides/slide5.PNG",
      "/slides/Slide6.PNG",
      "/slides/Slide7.PNG",
      "/slides/Slide8.PNG",
