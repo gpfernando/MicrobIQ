@@ -9,7 +9,7 @@ import { useEffect } from "react";
 // import { UIProvider } from "./context/ui";
 // import Footer from "./components/footer";
 // import AppDrawer from "./components/drawer";
-// import Promotions from "./components/promotions";
+import Promotions from "./components/slides";
 // import SearchBox from "./components/search";
 
 function App() {
@@ -27,10 +27,10 @@ function App() {
       }}
       >
         <Appbar />
+        <Promotions/>
 
       { /*
         Banner
-        Promotions
         title
         Products
         footer
