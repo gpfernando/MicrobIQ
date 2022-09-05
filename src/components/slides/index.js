@@ -6,7 +6,7 @@ import { Colors } from "../../styles/theme";
 
 
 const slides = [
-     "%PUBLIC_URL%/slides/Slide1.PNG",
+     "/slides/slide1.jpg",
      "./slides/Slide2.PNG",
      "../slides/Slide3.PNG",
      "/slides/slide4.PNG",
