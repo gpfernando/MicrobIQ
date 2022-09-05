@@ -7,21 +7,21 @@ import { Colors } from "../../styles/theme";
 
 const slides = [
      "/slides/slide1.jpg",
-     "./slides/Slide2.PNG",
-     "../slides/Slide3.PNG",
-     "/slides/slide4.PNG",
-     "./slides/slide5.PNG",
-     "/slides/Slide6.PNG",
-     "/slides/Slide7.PNG",
-     "/slides/Slide8.PNG",
-     "/slides/Slide9.PNG",
-     "/slides/Slide10.PNG",
-     "/slides/Slide11.PNG",
-     "/slides/Slide12.PNG",
-     "/slides/Slide13.PNG",
-     "/slides/Slide14.PNG",
-     "/slides/Slide16.PNG",
-     "/slides/Slide17.PNG"
+     "/slides/Slide2jpg",
+     "/slides/Slide3jpg",
+     "/slides/slide4jpg",
+     "/slides/slide5jpg",
+     "/slides/Slide6jpg",
+     "/slides/Slide7jpg",
+     "/slides/Slide8jpg",
+     "/slides/Slide9jpg",
+     "/slides/Slide10jpg",
+     "/slides/Slide11jpg",
+     "/slides/Slide12jpg",
+     "/slides/Slide13jpg",
+     "/slides/Slide14jpg",
+     "/slides/Slide16jpg",
+     "/slides/Slide17jpg"
     ];
 
   export default function Promotions() {
